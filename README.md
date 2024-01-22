@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bradley Stewart</h1>
+<h1 align="center">Hi, I'm Brad</h1>
 <h3 align="center">A software quality engineer/software developer from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradistrash&label=Profile%20views&color=0e75b6&style=flat" alt="bradistrash" /> </p>
