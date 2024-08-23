@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/trash__rl" target="blank"><img src="https://img.shields.io/twitter/follow/trash__rl?logo=twitter&style=for-the-badge" alt="trash__rl" /></a> </p>
 
--  I’m currently working with **React, React-Native, Bootstrap, Python**
+-  I’m currently working with **React, React-Native, Next, Ant Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
