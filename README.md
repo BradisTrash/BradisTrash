@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://twitter.com/trash__rl" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/trash__rl?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://linkedin.com/in/bradley-stewart-4016741a7" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 What I'm Building
-- **MCS WEBSITE:** Full-stack NextJS web application using Supabase, Tailwind, and Sanity
+- **MCS Website:** Full-stack NextJS web application using Supabase, Tailwind, and Sanity
 - **Trash Enterprises:** Experimental, code-first game prototypes utilizing custom engine architectures.
 - **MCS Broadcast Tools:** High-performance overlay systems and official stats-parsing engines built in **Rust**.
 - **Infrastructure:** Championing data sovereignty with self-hosted **Docker** and **Forgejo** environments.
@@ -46,6 +46,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bradistrash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bradistrash&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bradistrash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bradistrash&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
